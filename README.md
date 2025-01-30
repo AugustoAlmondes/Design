@@ -33,7 +33,7 @@ As imagens contidas neste repositório são de minha autoria e não devem ser ut
 ## 📩 Contato
 
 📧 Email: augusto7666@gmail.com
-💼 WhatsApp: wa.me/+5589988083671
+💼 WhatsApp: https://wa.me/+5589988083671
 📷 Instagram: augusto_almondes
 
 Agradeço pelo interesse! Se gostou do conteúdo, ⭐ dê um star no repositório!
